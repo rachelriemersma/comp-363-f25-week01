@@ -3,6 +3,4 @@
 # Leo, note to self:
 # Version numbers are stable releases guaranteed to work for Fall 2025 term. 
 # Revise before offering the course next time.
-matplotlib==3.8.4
-pandas==2.2.2
-tqdm==4.66.4
+jupyterlab==4.1.*
